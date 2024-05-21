@@ -1,0 +1,7 @@
+C:\Users\Acer\Desktop\Lập Trình OOP\New folder\OOP_Long\OOP_Long\bin\Debug\OOP_Long.exe.config
+C:\Users\Acer\Desktop\Lập Trình OOP\New folder\OOP_Long\OOP_Long\bin\Debug\OOP_Long.exe
+C:\Users\Acer\Desktop\Lập Trình OOP\New folder\OOP_Long\OOP_Long\bin\Debug\OOP_Long.pdb
+C:\Users\Acer\Desktop\Lập Trình OOP\New folder\OOP_Long\OOP_Long\obj\Debug\OOP_Long.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Lập Trình OOP\New folder\OOP_Long\OOP_Long\obj\Debug\OOP_Long.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Lập Trình OOP\New folder\OOP_Long\OOP_Long\obj\Debug\OOP_Long.exe
+C:\Users\Acer\Desktop\Lập Trình OOP\New folder\OOP_Long\OOP_Long\obj\Debug\OOP_Long.pdb

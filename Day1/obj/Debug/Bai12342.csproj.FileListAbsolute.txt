@@ -1,7 +1,0 @@
-C:\Users\Acer\Desktop\Lập Trình OOP\New folder\OOP-Long\Day1\bin\Debug\Day1.exe.config
-C:\Users\Acer\Desktop\Lập Trình OOP\New folder\OOP-Long\Day1\bin\Debug\Day1.exe
-C:\Users\Acer\Desktop\Lập Trình OOP\New folder\OOP-Long\Day1\bin\Debug\Day1.pdb
-C:\Users\Acer\Desktop\Lập Trình OOP\New folder\OOP-Long\Day1\obj\Debug\Bai12342.csproj.AssemblyReference.cache
-C:\Users\Acer\Desktop\Lập Trình OOP\New folder\OOP-Long\Day1\obj\Debug\Bai12342.csproj.CoreCompileInputs.cache
-C:\Users\Acer\Desktop\Lập Trình OOP\New folder\OOP-Long\Day1\obj\Debug\Day1.exe
-C:\Users\Acer\Desktop\Lập Trình OOP\New folder\OOP-Long\Day1\obj\Debug\Day1.pdb
