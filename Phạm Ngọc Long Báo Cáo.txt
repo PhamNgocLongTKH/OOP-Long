@@ -1,0 +1,9 @@
+Day 1
+- Công việc làm trong ngày : Học lại OOP cơ bản , hoàn thành bài 1,2,3,4.
+- kinh nghiệm: ôn lại kiến thức, rèn luyện lại các kỹ năng.
+- Khó khăn: bài 5-6 khó về xem lại kiến thức. Tốc độ lam con chậm, có một số kiến thức mới.
+
+Day 2 
+- Công việc làm trong ngày : fixbug còn sót lại, xem lại OOP đa hình với kế thừa, tối ưu code
+- kinh nghiệm: ôn lại kiến thức OOP,tối ưu code,clearn code
+- Khó khăn: OOP vữa chưa vững,tối ưu code chưa tốt
